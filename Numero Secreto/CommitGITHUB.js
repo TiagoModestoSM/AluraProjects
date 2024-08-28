@@ -1,4 +1,6 @@
-/*Crie uma conta no GitHub Você pode começar seguindo os passos mostrados no vídeo, preenchendo o formulário de cadastro, verificando sua conta e explorando a página inicial do GitHub.
+/*
+COMMIT NO GITHUB
+Crie uma conta no GitHub Você pode começar seguindo os passos mostrados no vídeo, preenchendo o formulário de cadastro, verificando sua conta e explorando a página inicial do GitHub.
 
 Criar um novo repositório no GitHub e fazer o upload de um projeto local para esse repositório. Você pode seguir passos mencionados na aula, como acessar as configurações do GitHub, criar um novo repositório com um nome único e escolher se ele será público ou privado. Em seguida, você pode adicionar uma descrição, um README, um .gitignore e uma licença ao repositório.
 
@@ -40,3 +42,23 @@ Modificados, adicionados ou excluídos: Exibe os arquivos que não foram rastrea
 Além disso, o comando git status pode fornecer informações adicionais sobre as ramificações atuais, como a ramificação atual e as ramificações que estão à frente ou atrás da atual.
 
 O comando git status é uma ferramenta indispensável para qualquer desenvolvedor que utiliza Git. Ele permite monitorar as alterações no repositório, identificar o estado dos arquivos e tomar decisões de gerenciamento de commits de forma eficiente.*/
+
+/*
+COMANDOS GIT
+
+Nessa aula, você aprendeu como:
+Baixar uma cópia de um repositório hospedado no GitHub para o seu computador, utilizando o comando git clone;
+
+Realizar alterações no código de um projeto e registrá-las com commits, utilizando os comandos git add e git commit;
+
+Visualizar quais arquivos foram modificados no repositório local, utilizando o comando git status;
+
+Listar os commits realizados no repositório, com dados do autor, data e mensagem de cada commit, utilizando o comando git log;
+
+Visualizar os repositórios remotos linkados com o repositório local, utilizando o comando git remote;
+
+Enviar commits feitos no repositório local para o repositório remoto, utilizando o comando git push;
+
+Baixar commits do repositório remoto para o repositório local, utilizando o comando git pull;
+
+Adicionar uma pessoa como colaboradora em um repositório no GitHub, e também como aceitar um convite de colaboração recebido.*/
